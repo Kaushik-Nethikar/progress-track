@@ -20,7 +20,7 @@ from utils.stats import (
 )
 
 PERSON_1 = "Kaushik"
-PERSON_2 = "Friend"
+PERSON_2 = "Kiran"
 
 st.markdown("""
 <style>
